@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -17,4 +18,12 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
