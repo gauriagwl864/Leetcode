@@ -40,4 +40,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gauriagwl864/Leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gauriagwl864/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
