@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/gauriagwl864/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
