@@ -27,7 +27,7 @@ public class Solution {
                 t2=t2.next;
             }
         }
-        return t2;
+        return t1;
 
     }
 }
