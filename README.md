@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
+| [0868-binary-gap](https://github.com/gauriagwl864/Leetcode/tree/master/0868-binary-gap) |
 ## Sorting
 |  |
 | ------- |
