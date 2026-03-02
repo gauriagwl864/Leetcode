@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gauriagwl864/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
