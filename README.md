@@ -35,6 +35,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauriagwl864/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 ## Simulation
 |  |
 | ------- |
