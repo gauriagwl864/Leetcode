@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/gauriagwl864/Leetcode/tree/master/0162-find-peak-element) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
+| [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauriagwl864/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Simulation
 |  |
 | ------- |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gauriagwl864/Leetcode/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
