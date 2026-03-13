@@ -34,6 +34,7 @@
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/gauriagwl864/Leetcode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauriagwl864/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauriagwl864/Leetcode/tree/master/0011-container-with-most-water) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Depth-First Search
 |  |
 | ------- |
