@@ -130,4 +130,20 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauriagwl864/Leetcode/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/gauriagwl864/Leetcode/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/gauriagwl864/Leetcode/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/gauriagwl864/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/gauriagwl864/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
