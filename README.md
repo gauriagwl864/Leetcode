@@ -22,6 +22,7 @@
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2906-construct-product-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
+| [2906-construct-product-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -188,4 +190,5 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2906-construct-product-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/2906-construct-product-matrix) |
 <!---LeetCode Topics End-->
