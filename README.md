@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauriagwl864/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauriagwl864/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -165,6 +166,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
