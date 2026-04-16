@@ -139,6 +139,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/gauriagwl864/Leetcode/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/gauriagwl864/Leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/gauriagwl864/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/gauriagwl864/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
