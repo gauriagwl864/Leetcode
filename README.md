@@ -19,6 +19,7 @@
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
+| [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauriagwl864/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
@@ -181,6 +183,7 @@
 | [0225-implement-stack-using-queues](https://github.com/gauriagwl864/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gauriagwl864/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
