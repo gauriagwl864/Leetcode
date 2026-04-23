@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauriagwl864/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauriagwl864/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/gauriagwl864/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
@@ -87,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/gauriagwl864/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauriagwl864/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/gauriagwl864/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/gauriagwl864/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
