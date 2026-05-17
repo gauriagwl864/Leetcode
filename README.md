@@ -55,6 +55,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
+| [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauriagwl864/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -66,6 +67,7 @@
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauriagwl864/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
 |  |
@@ -89,6 +91,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauriagwl864/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/gauriagwl864/Leetcode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/gauriagwl864/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -204,6 +207,7 @@
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
