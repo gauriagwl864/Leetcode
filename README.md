@@ -24,6 +24,7 @@
 | [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -210,6 +211,7 @@
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -220,6 +222,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Divide and Conquer
