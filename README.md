@@ -59,6 +59,7 @@
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauriagwl864/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauriagwl864/Leetcode/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Depth-First Search
 |  |
@@ -218,6 +220,7 @@
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/gauriagwl864/Leetcode/tree/master/1544-make-the-string-great) |
