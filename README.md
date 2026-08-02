@@ -26,6 +26,7 @@
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/gauriagwl864/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/gauriagwl864/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -263,6 +264,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/gauriagwl864/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2906-construct-product-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/2906-construct-product-matrix) |
 ## Tree
