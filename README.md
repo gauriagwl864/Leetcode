@@ -198,6 +198,7 @@
 | [0207-course-schedule](https://github.com/gauriagwl864/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/gauriagwl864/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -280,6 +281,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gauriagwl864/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/gauriagwl864/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -293,6 +295,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gauriagwl864/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauriagwl864/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/gauriagwl864/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Queue
 |  |
 | ------- |
@@ -303,4 +306,8 @@
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/gauriagwl864/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/gauriagwl864/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
