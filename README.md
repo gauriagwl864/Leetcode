@@ -29,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/gauriagwl864/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/gauriagwl864/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/gauriagwl864/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/gauriagwl864/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -135,6 +136,7 @@
 | [0162-find-peak-element](https://github.com/gauriagwl864/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauriagwl864/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/gauriagwl864/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
