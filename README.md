@@ -35,6 +35,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/gauriagwl864/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2906-construct-product-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauriagwl864/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
@@ -138,6 +139,7 @@
 | [0704-binary-search](https://github.com/gauriagwl864/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gauriagwl864/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/gauriagwl864/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Dynamic Programming
 |  |
 | ------- |
