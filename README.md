@@ -13,6 +13,7 @@
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauriagwl864/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/gauriagwl864/Leetcode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -181,6 +183,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauriagwl864/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Greedy
