@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauriagwl864/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/gauriagwl864/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/gauriagwl864/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/gauriagwl864/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/gauriagwl864/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 ## String
@@ -326,4 +328,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gauriagwl864/Leetcode/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/gauriagwl864/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
