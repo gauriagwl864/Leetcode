@@ -124,6 +124,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gauriagwl864/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/gauriagwl864/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gauriagwl864/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauriagwl864/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gauriagwl864/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/gauriagwl864/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauriagwl864/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/gauriagwl864/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gauriagwl864/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
