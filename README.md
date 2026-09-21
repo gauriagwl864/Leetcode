@@ -78,6 +78,7 @@
 | [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/gauriagwl864/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/gauriagwl864/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1544-make-the-string-great](https://github.com/gauriagwl864/Leetcode/tree/master/1544-make-the-string-great) |
@@ -159,6 +160,7 @@
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauriagwl864/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/gauriagwl864/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
 |  |
@@ -337,4 +339,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gauriagwl864/Leetcode/tree/master/0056-merge-intervals) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/gauriagwl864/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
