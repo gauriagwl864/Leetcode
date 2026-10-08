@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauriagwl864/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauriagwl864/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gauriagwl864/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gauriagwl864/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -49,6 +50,7 @@
 | [0141-linked-list-cycle](https://github.com/gauriagwl864/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/gauriagwl864/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
@@ -68,6 +70,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/gauriagwl864/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -274,6 +277,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,4 +347,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/gauriagwl864/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
