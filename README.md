@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauriagwl864/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gauriagwl864/Leetcode/tree/master/0162-find-peak-element) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/gauriagwl864/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 ## String
@@ -118,6 +120,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gauriagwl864/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gauriagwl864/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauriagwl864/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
