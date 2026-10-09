@@ -80,6 +80,7 @@
 | [0032-longest-valid-parentheses](https://github.com/gauriagwl864/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/gauriagwl864/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/gauriagwl864/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gauriagwl864/Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/gauriagwl864/Leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Depth-First Search
@@ -254,6 +256,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gauriagwl864/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/gauriagwl864/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gauriagwl864/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/gauriagwl864/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauriagwl864/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/gauriagwl864/Leetcode/tree/master/0682-baseball-game) |
@@ -271,6 +274,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/gauriagwl864/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauriagwl864/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
