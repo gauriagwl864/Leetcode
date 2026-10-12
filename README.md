@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/gauriagwl864/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/gauriagwl864/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/gauriagwl864/Leetcode/tree/master/0868-binary-gap) |
@@ -289,6 +290,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/gauriagwl864/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
