@@ -52,6 +52,7 @@
 | [0146-lru-cache](https://github.com/gauriagwl864/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/gauriagwl864/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/gauriagwl864/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
+| [0389-find-the-difference](https://github.com/gauriagwl864/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/gauriagwl864/Leetcode/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -73,6 +75,7 @@
 | [0075-sort-colors](https://github.com/gauriagwl864/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gauriagwl864/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gauriagwl864/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/gauriagwl864/Leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -80,6 +83,7 @@
 | [0032-longest-valid-parentheses](https://github.com/gauriagwl864/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/gauriagwl864/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/gauriagwl864/Leetcode/tree/master/0071-simplify-path) |
+| [0389-find-the-difference](https://github.com/gauriagwl864/Leetcode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/gauriagwl864/Leetcode/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/gauriagwl864/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/gauriagwl864/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
