@@ -64,6 +64,7 @@
 | ------- |
 | [0078-subsets](https://github.com/gauriagwl864/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/gauriagwl864/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/gauriagwl864/Leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/gauriagwl864/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/gauriagwl864/Leetcode/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
@@ -139,6 +140,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauriagwl864/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/gauriagwl864/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gauriagwl864/Leetcode/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0062-unique-paths](https://github.com/gauriagwl864/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/gauriagwl864/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gauriagwl864/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/gauriagwl864/Leetcode/tree/master/0231-power-of-two) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gauriagwl864/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
