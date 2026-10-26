@@ -37,6 +37,7 @@
 | [0739-daily-temperatures](https://github.com/gauriagwl864/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/gauriagwl864/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/gauriagwl864/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/gauriagwl864/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauriagwl864/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -57,6 +58,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/gauriagwl864/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/gauriagwl864/Leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/gauriagwl864/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/gauriagwl864/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gauriagwl864/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gauriagwl864/Leetcode/tree/master/0207-course-schedule) |
+| [0997-find-the-town-judge](https://github.com/gauriagwl864/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
