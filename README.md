@@ -41,6 +41,7 @@
 | [0997-find-the-town-judge](https://github.com/gauriagwl864/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/gauriagwl864/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gauriagwl864/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/gauriagwl864/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauriagwl864/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/gauriagwl864/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1980-find-unique-binary-string](https://github.com/gauriagwl864/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -184,6 +185,7 @@
 | [0085-maximal-rectangle](https://github.com/gauriagwl864/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gauriagwl864/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/gauriagwl864/Leetcode/tree/master/0509-fibonacci-number) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/gauriagwl864/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/gauriagwl864/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/gauriagwl864/Leetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
@@ -387,4 +389,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/gauriagwl864/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/gauriagwl864/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/gauriagwl864/Leetcode/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
